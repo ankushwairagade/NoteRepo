@@ -1,9 +1,16 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+Topics
+
+
+* Array
+* Recursion
+* Math
+* BackTracking
+* Linked List
+* Stack
+* Queue
+* Binary Trees
+* File Handling
+* Heap Data
+* Hashmap and HashTable
+* Greedy Algorithm
+*
